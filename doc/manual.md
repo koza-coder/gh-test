@@ -1,1 +1,1 @@
-Manual fo this repo.
+Manual for this repo.
