@@ -1,2 +1,4 @@
 *.pyd
 *.o
+.DS_Store
+
